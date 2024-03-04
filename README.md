@@ -3,6 +3,7 @@
 ## Dist. Systems
 
 [`kubernetes`](https://github.com/kubernetes/kubernetes) - K8s
+   - [K8s API Priority and Fairness](https://kubernetes.io/docs/concepts/cluster-administration/flow-control/)
 
 [`minikube`](https://github.com/kubernetes/minikube) - Run Kubernetes locally
 
