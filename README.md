@@ -25,6 +25,6 @@
 
 [`Tekton Chains`](https://github.com/tektoncd/chains) - Cloud Native Supply Chain Security
 
-[`kritis`](https://github.com/grafeas/kritis) - K8s Security Policy Operator For Enforcing Container Vuln Security and Binary Authorization
+[`kritis`](https://github.com/grafeas/kritis) - K8s security policy operator For enforcing container vuln security and binary authorization
 
 </td><td valign="top" width="33%">
