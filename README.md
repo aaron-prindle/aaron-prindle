@@ -4,6 +4,7 @@
 
 [`kubernetes`](https://github.com/kubernetes/kubernetes) - K8s
    - [K8s API Priority and Fairness](https://kubernetes.io/docs/concepts/cluster-administration/flow-control/)
+   - [Declarative Validation](https://github.com/kubernetes/enhancements/blob/master/keps/sig-api-machinery/5073-declarative-validation-with-validation-gen/README.md)
 
 [`minikube`](https://github.com/kubernetes/minikube) - Run Kubernetes locally
 
